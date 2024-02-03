@@ -1,3 +1,3 @@
 // installing  Typescript globally
 // Download Visual Studio Code
-// install node LTS (latest Version):
+// install node js LTS (latest Version):
